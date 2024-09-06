@@ -34,3 +34,10 @@ estrutura:
 <cite>, <adress>, <br>, <abbr> ,<table <tr> th> <td>, <bdr dir="rtl/ltr">, <del>, <ins>
 incorporação código <> (vídeo/formulário)
 
+10.05.2024
+<u> (sublinhar); <s> (tachar), <hr>, <small>, <strong>
+<dl> (lista), <dt> (tipo), <dt> (unidade)
+<details><summary>nome</summary>descrição</details>
+<form>, <fieldset>, <imput>
+<select> (selecionar), <optgroup> (agrupar), <option> (opção)
+
