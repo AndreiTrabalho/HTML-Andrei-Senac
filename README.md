@@ -1,7 +1,8 @@
 # HTML-Andrei-Senac
 // // 09.03.2024 // // 
 Criado pasta e arquivo HTML, <label>, <textarea> (adaptado a ARIA), <button> (adaptado a ARIA), <!--COMENTARIO-->
-Alt, Shift, f = 
+Alt, Shift, f = Arrumar
+Ctrl, Shift, l = selecionar elemento 
 
 09.04.2024
 <header> ,<ul> e <li>, <ol> e <li>,<nav>, <div>, <img>, <a>, <h1> a <h6>, <dialog>, <progress>, menu eMAG/ARIA (Role), <main>
@@ -40,4 +41,21 @@ incorporação código <> (vídeo/formulário)
 <details><summary>nome</summary>descrição</details>
 <form>, <fieldset>, <imput>
 <select> (selecionar), <optgroup> (agrupar), <option> (opção)
+
+09.09.2024
+<sup>; <sub>
+CSS styles: inline, internal, external
+
+inline (maior prioridade):
+<h1 style="margin: 0px">Título h1</h1>
+
+internal:
+h1 {
+    background-color:brown; color: white;
+}
+
+external (menor prioridade):
+<head>
+    <link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
 
