@@ -59,3 +59,9 @@ external (menor prioridade):
     <link rel="stylesheet" type="text/css" href="mystyle.css">
 </head>
 
+09.10.2024
+Criado documento html novo com css externo. Uso de IA para criar um switch, tooltip, grid (https://www.w3schools.com/cssref/pr_grid-column.php), spinner;
+Positions: static, relative, absolute, fixed, sticky;
+Display: inline, inline-block, block;
+Visibility: hidden, visible;
+
